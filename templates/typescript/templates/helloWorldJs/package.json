@@ -1,0 +1,9 @@
+{
+    "name": "create-everything",
+    "version": "1.0.0",
+    "description": "A create- template provided by create-everything",
+    "main": "index.tsx",
+    "scripts": {},
+    "author": "",
+    "license": "ISC"
+}
