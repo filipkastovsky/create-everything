@@ -19,7 +19,7 @@ npm i
 ### yarn
 
 ```
-yarn create-everything create-my-package
+yarn create everything create-my-package
 cd create-my-package
 yarn install
 ```
