@@ -1,6 +1,6 @@
 {
     "name": "create-everything",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Create your own create- template to publish to npm containing anything and everything with create-everything!",
     "main": "create-everything.js",
     "module": "create-everything.js",
