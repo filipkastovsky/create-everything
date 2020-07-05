@@ -9,8 +9,7 @@
         "type": "git",
         "url": "https://github.com/filipkastovsky/create-everything.git"
     },
-    "author": "Filip Kaštovský",
-    "license": "BSD-3-Clause",
+    "author": "",
     "dependencies": {
         "ncp": "^2.0.0",
         "yargs": "^15.3.1"

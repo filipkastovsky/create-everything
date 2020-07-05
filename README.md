@@ -11,16 +11,16 @@ Create your own create- template to publish to npm containing anything and every
 ### npm
 
 ```
-npx create-react-embeddable app
-cd app
+npx create-everything create-my-package
+cd create-my-package
 npm i
 ```
 
 ### yarn
 
 ```
-yarn create react-embeddable app
-cd app
+yarn create-everything create-my-package
+cd create-my-package
 yarn install
 ```
 
