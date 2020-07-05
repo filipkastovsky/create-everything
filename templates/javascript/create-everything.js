@@ -21,7 +21,7 @@ export const builder = (argv) =>
         .positional(OptionNames.template, {
             alias: 'T',
             type: 'string',
-            demandOption: !!DEFAULT_PACKAGE,
+            demandOption: !DEFAULT_PACKAGE,
             description: 'Use a template',
             default: DEFAULT_PACKAGE,
         });
