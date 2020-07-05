@@ -1,7 +1,9 @@
 import { CommandBuilder } from 'yargs';
 import { ncp } from 'ncp';
 import { join } from 'path';
-import { PACKAGE_PATH, DEFAULT_PACKAGE } from './GLOBALS';
+
+export const PACKAGE_PATH = 'create-everything';
+export const DEFAULT_PACKAGE = 'helloWorldJs'; // If none is specified, package name will be requiered
 
 const _templatesPath = join(__dirname, 'templates');
 
